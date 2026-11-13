@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cv-banner.svg" alt="Eylül Nur — Cybersecurity Analyst" width="100%"/>
+<img src="/cv-banner.svg" alt="Eylül Nur — Cybersecurity Analyst" width="100%"/>
 
 <br/>
 
@@ -50,7 +50,7 @@ I'm a **3rd-year Management Information Systems (MIS) student** focusing on **cy
 I built this project to analyze network flow anomalies and tell **DDoS attack patterns apart from legitimate traffic** using the **CICIDS2017** dataset. It combines a local SQLite database, Python for anomaly visualization, and custom DAX measures designed for SOC monitoring dashboards.
 
 <div align="center">
-<img src="assets/soc-findings.svg" alt="DDoS vs Benign key findings" width="90%"/>
+<img src="/soc-findings.svg" alt="DDoS vs Benign key findings" width="90%"/>
 </div>
 
 **Key findings**
