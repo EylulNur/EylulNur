@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cv-banner.svg" alt="Eylül Nur — Cybersecurity Analyst" width="100%"/>
+<img src="cv-banner.svg" alt="Eylül Nur Hacıfazlıoğlu — Cybersecurity Analyst" width="100%"/>
 
 <br/>
 
