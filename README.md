@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/cv-banner.svg" alt="Eylül Nur — Cybersecurity Analyst" width="100%"/>
+<img src="cv-banner.svg" alt="Eylül Nur — Cybersecurity Analyst" width="100%"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/EylulNur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mail@ornek.com"><img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/EylulNur?tab=followers"><img src="https://img.shields.io/github/followers/EylulNur?style=flat-square&logo=github&color=111827"/></a>
+<a href="https://www.linkedin.com/in/eyl%C3%BCl-nur-hac%C4%B1fazl%C4%B1o%C4%9Flu-63674633a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:eylulhacifazlioglu077@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/eylulnurhacifazlioglu?tab=followers"><img src="https://img.shields.io/github/followers/eylulnurhacifazlioglu?style=flat-square&logo=github&color=111827"/></a>
 
 <br/><br/>
 
-<img src="assets/header.gif" alt="Green glow hacker vibe" width="100%"/>
+<img src="header.gif" alt="Green glow hacker vibe" width="100%"/>
 
 </div>
 
@@ -49,12 +49,14 @@ I'm a **3rd-year Management Information Systems (MIS) student** focusing on **cy
 
 ## 🛡️ Featured Project
 
-### [SOC Threat Intelligence & Network Traffic Analysis](https://github.com/EylulNur/ai-cybersec-dashboard)
+### [SOC Threat Intelligence & Network Traffic Analysis](https://github.com/eylulnurhacifazlioglu/ai-cybersec-dashboard)
 
 I built this project to analyze network flow anomalies and tell **DDoS attack patterns apart from legitimate traffic** using the **CICIDS2017** dataset. It combines a local SQLite database, Python for anomaly visualization, and custom DAX measures designed for SOC monitoring dashboards.
 
 <div align="center">
-<img src="assets/soc-findings.svg" alt="DDoS vs Benign key findings" width="90%"/>
+<img src="soc-findings.svg" alt="DDoS vs Benign key findings" width="90%"/>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/eylulnurhacifazlioglu/ai-cybersec-dashboard/main/reports/figures/soc_traffic_overview.png" alt="Average packet size and traffic volume distribution: Benign vs DDoS" width="90%"/>
 </div>
 
 **Key findings**
@@ -75,7 +77,7 @@ I built this project to analyze network flow anomalies and tell **DDoS attack pa
 <summary><b>▶ How to run</b></summary>
 
 ```bash
-git clone https://github.com/EylulNur/ai-cybersec-dashboard.git
+git clone https://github.com/eylulnurhacifazlioglu/ai-cybersec-dashboard.git
 cd ai-cybersec-dashboard
 pip install pandas matplotlib seaborn
 python3 src/visualize.py
@@ -87,7 +89,7 @@ The chart is saved to `reports/figures/soc_traffic_overview.png`.
 
 <div align="center">
 
-<a href="https://github.com/EylulNur/ai-cybersec-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EylulNur&repo=ai-cybersec-dashboard&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/eylulnurhacifazlioglu/ai-cybersec-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eylulnurhacifazlioglu&repo=ai-cybersec-dashboard&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
@@ -97,8 +99,8 @@ The chart is saved to `reports/figures/soc_traffic_overview.png`.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EylulNur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EylulNur&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eylulnurhacifazlioglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylulnurhacifazlioglu&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
 
 </div>
 
@@ -106,6 +108,6 @@ The chart is saved to `reports/figures/soc_traffic_overview.png`.
 
 <div align="center">
 
-**Let's talk security analytics.** → [Email](mailto:mail@ornek.com) · [LinkedIn](https://linkedin.com/in/EylulNur)
+**Let's talk security analytics.** → [Email](mailto:eylulhacifazlioglu077@gmail.com) · [LinkedIn](https://www.linkedin.com/in/eyl%C3%BCl-nur-hac%C4%B1fazl%C4%B1o%C4%9Flu-63674633a)
 
 </div>
